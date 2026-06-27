@@ -4,7 +4,7 @@ Systems Engineering student at Universidad Nacional de Costa Rica, focused on fu
 
 ## Tech Stack
 
-**Backend:** Java, Spring Boot, Spring Security, JWT, JPA 
+**Backend:** Java, Spring Boot, Spring Security, JWT, JPA
 **Frontend:** React, JavaScript, TypeScript, HTML, CSS, Bootstrap, Thymeleaf, Tailwind
 **Databases:** MySQL, Oracle DB **Other:** C++, Git, XML
 
